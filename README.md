@@ -1,4 +1,4 @@
-# flutter_one
+# flutter_recipe_calculator
 
 A new Flutter project.
 
